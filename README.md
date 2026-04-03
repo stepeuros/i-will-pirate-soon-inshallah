@@ -18,5 +18,5 @@ The core logic is wrapped in a clean, modular Python function designed for termi
 ### How to Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+   git clone [https://github.com/stepeuros/i-will-pirate-soon-inshallah.git)
    
